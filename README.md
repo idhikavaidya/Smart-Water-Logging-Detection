@@ -1,2 +1,2 @@
 # Water-Logging
-I built a classification model to determine whether a given record has waterlogging or not. The process involved data preparation, modeling, and creating an interactive dashboard for visualizing results.
+Created a Machine Learning model for classifying whether a given record has waterlogging or not. I also made a interactive dashboard on PowerBI for data analysis and visualization.
