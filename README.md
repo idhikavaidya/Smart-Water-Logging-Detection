@@ -1,2 +1,3 @@
-# Water-Logging
-Created a Machine Learning model for classifying whether a given record has waterlogging or not. I also made a interactive dashboard on PowerBI for data analysis and visualization.
+🌊** Waterlogging Identification: ML & Power BI**
+
+Developed a machine learning model to classify waterlogging-prone areas and built an interactive Power BI dashboard for insightful data visualization. The model, trained on key environmental factors, helps predict waterlogging risks, while the dashboard enhances analysis for better decision-making. Technologies used: Python (Pandas, NumPy, Scikit-learn), ML models (Random Forest, Decision Trees, SVM), and Power BI. 🚀
