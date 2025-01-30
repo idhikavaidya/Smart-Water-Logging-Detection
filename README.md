@@ -16,8 +16,6 @@ This project enables better flood risk management and urban planning by combinin
 
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQGIAuxUmIL4KQ/feedshare-shrink_2048_1536/B4DZS3K0KhH0Aw-/0/1738239854957?e=1741219200&v=beta&t=OZg_rUYdJyhK5i0WtiS0StNIKesqoEa6KkPTOyeaSYc">
 <img src="https://media.licdn.com/dms/image/v2/D4D22AQFe3iAXjUMbCA/feedshare-shrink_2048_1536/B4DZS3K0LKHAAo-/0/1738239854212?e=1741219200&v=beta&t=NIGtJmZ8cX-87SdPx57clpw3gnaJ29wUq1tu9BHeEwc">
-<!-- <img src="https://media.licdn.com/dms/image/v2/D4D22AQGaJIbY1EFh6A/feedshare-shrink_2048_1536/B4DZS3K0KyH0Ao-/0/1738239854042?e=1741219200&v=beta&t=eX9RP4SrTcFvZDyVGn1Y4un4jRXiY16nIMeCPMkI3BE">
-<img src="https://media.licdn.com/dms/image/v2/D4D22AQE_-_psOlAPPQ/feedshare-shrink_2048_1536/B4DZS3K0LGHYAw-/0/1738239854499?e=1741219200&v=beta&t=RDdPlglYWL9hZEZx0_d2psGY1vIPpz9n8gkBE3OJoKE"> -->
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQGaJIbY1EFh6A/feedshare-shrink_2048_1536/B4DZS3K0KyH0Ao-/0/1738239854042?e=1741219200&v=beta&t=eX9RP4SrTcFvZDyVGn1Y4un4jRXiY16nIMeCPMkI3BE" 
