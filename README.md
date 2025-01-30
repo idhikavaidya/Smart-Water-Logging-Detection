@@ -1,4 +1,4 @@
-🌊 **Smart Waterlogging Detection**: Machine Learning, Power BI & Spatial Analysis
+🌊 **Smart Waterlogging Detection**
 
 This project integrates Machine Learning, Power BI, and Spatial Analysis using ArcGIS to identify areas prone to waterlogging. The dataset includes key environmental factors such as slope, drainage, soil texture, flow accumulation, terrain indices (TRI, TWI, TPI), vegetation indices (NDVI, SAVI, NDMI), land cover, and population density.
 
