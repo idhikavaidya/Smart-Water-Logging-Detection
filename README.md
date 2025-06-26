@@ -14,6 +14,6 @@ Project Highlights
 
 This project enables better flood risk management and urban planning by combining predictive analytics with spatial intelligence. 
 
-<img src="Project Screenshot.jpg">
+<img src="Project Screenshot 1.jpeg">
 
 
